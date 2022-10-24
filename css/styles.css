@@ -69,12 +69,12 @@ body{
     height: 75px;
     padding: 0 30px;
     margin-top: 10px;
-    color: var(--color-background);
+    background: var(--color-background);
     z-index: 1;
 }
 
 .logo img {
-    margin-top: 30px;
+    /* margin-top: 30px; */
     width: 130px;
     cursor: pointer;
 }
